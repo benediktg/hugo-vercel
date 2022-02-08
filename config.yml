@@ -1,0 +1,4 @@
+baseURL: 'http://example.org/'
+languageCode: de
+title: 'Meine Hugo-Seite'
+theme: PaperMod
